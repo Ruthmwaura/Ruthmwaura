@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ruthmwaura
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data cleaning and analysis
 - 💞️ I’m looking to collaborate on slack, github and mails
 - 📫 How to reach me ruthmwaura123@gmail.com
 
